@@ -30,7 +30,7 @@ public class HuntTheWumpus {
 		}
 
 		// populating the rooms list with the adjacent rooms
-		// adjacent rooms are accessed through rooms.get(currentRooom)
+		// adjacent rooms are accessed through rooms.get(currentRoom)
 		// work smarter, not harder
 		// thank you, python 3
 		rooms.add(Arrays.asList()); // blank list for room 0 (which doesnt exist)
